@@ -2,7 +2,7 @@
 
 ## Whats in it.
 
-It is just a Laravel 6.2 Project with Google Drive File System plugged integrated.
+It is just a Laravel 6.2 Project with Google Drive File System integrated.
 
 ## Security Vulnerabilities
 

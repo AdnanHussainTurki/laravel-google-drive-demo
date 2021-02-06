@@ -17,5 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::post('/upload', function (Request $request) {
-    dd($request->file("thing")->store("1y54vxTjT6A34wxVyjbC0TuTGMYuqnIaa","google"));
+    dd($request->file("thing")->store("","google"));
 })->name("upload");
